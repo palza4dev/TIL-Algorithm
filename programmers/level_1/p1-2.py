@@ -7,18 +7,15 @@ x만큼 간격이 있는 n개의 숫자
 x는 -10000000 이상, 10000000 이하인 정수입니다.
 n은 1000 이하인 자연수입니다.
 '''
-# 핵심은 등차수열
+# 핵심은 등차수열, n번 만큼 반복하며 횟수와 x 값을 곱해준다. n == 0 인 경우를 주의한다. 
 
 # 나의 풀이
 def solution(x, n):
     answer = []
     for i in range(1,n+1):
         answer.append(x*i)
-        
     return answer
 
 # 다른 사람의 풀이
 def number_generator(x, n):
-    # 함수를 완성하세요
     return [i * x + x for i in range(n)]
-print(number_generator(2, 5))
