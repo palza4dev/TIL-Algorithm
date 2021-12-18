@@ -12,3 +12,4 @@
 | 핸드폰 번호 가리기  | [p1-4.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-4.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12948)|
 | 하샤드 수  | [p1-5.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-5.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12947)|
 | 평균 구하기 | [p1-6.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-6.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12944)|
+| 콜라츠 추측 | [p1-6.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-7.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12943)|
