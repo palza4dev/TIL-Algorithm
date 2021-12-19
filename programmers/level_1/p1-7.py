@@ -12,3 +12,25 @@
 제한 사항
 입력된 수, num은 1 이상 8000000 미만인 정수입니다.
 '''
+
+# 나의 풀이
+def solution(num):
+    count = 0
+    while num > 1:          # num != 1
+        count +=1
+        if num % 2 == 0:
+            num = num / 2           
+        else:
+            num = num * 3 + 1
+        if count > 500:
+            count = -1      # return -1
+            break
+    return count
+
+# 다른 사람의 풀이
+def collatz(num):
+    for i in range(501):
+        if num == 1:
+            return i
+        num = num / 2 if num % 2 == 0 else num*3 + 1
+    return -1
