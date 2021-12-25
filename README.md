@@ -15,4 +15,5 @@
 | 콜라츠 추측 | [p1-7.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-7.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12943)|
 | 최대공약수와 최소공배수 | [p1-8.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-8.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12940)|
 | 짝수와 홀수 | [p1-9.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-9.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12937)|
-| 제일 작은 수 제거하기 | [p1-10.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-9.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12935)|
+| 제일 작은 수 제거하기 | [p1-10.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-10.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12935)|
+| 정수의 제곱근 판별 | [p1-11.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-11.py) |[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12934)|
