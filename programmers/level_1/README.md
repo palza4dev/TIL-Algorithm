@@ -18,3 +18,5 @@
 | 자릿수 더하기 | [p1-14.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-14.py) | `map()`, `sum()` |
 | 이상한 문자 만들기 | [p1-15.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-15.py) | `split()` , `map()`, `lambda`, `enumerate()`, `upper()`,`join`  |
 | 약수의 합 | [p1-16.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-16.py) | `sum()`, `//` |
+| 시저 암호 | [p1-17.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-17.py) | `import string`, `string.ascii_lowercase`, `index()`, `islower()`, `chr()`, `ord()` |
+| 문자열을 정수로 바꾸기 | [p1-18.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-18.py) | `enumerate()` |
