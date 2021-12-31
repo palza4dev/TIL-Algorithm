@@ -9,11 +9,12 @@
 | 하샤드 수  | [p1-5.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-5.py) | `sum()` |
 | 평균 구하기 | [p1-6.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-6.py) | `sum()` |
 | 콜라츠 추측 | [p1-7.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-7.py) | 1이 될때까지 반복작업 |
-| 최대공약수와 최소공배수 | [p1-8.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-8.py) | `max()`, `min()`, 유클리드 호제법, `from math import gcd`|
+| 최대공약수와 최소공배수 | [p1-8.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-8.py) | `max()`, `min()`, `from math import gcd`, 유클리드 호제법|
 | 짝수와 홀수 | [p1-9.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-9.py) | `%` |
 | 제일 작은 수 제거하기 | [p1-10.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-10.py) | `remove()`, `min()` |
 | 정수의 제곱근 판별 | [p1-11.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-11.py) | `**`, `from math import sqrt` |
 | 정수 내림차순으로 배치하기 | [p1-12.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-12.py) | `sort()`,`sorted()`, `join()` |
 | 자연수 뒤집어 배열로 만들기 | [p1-13.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-13.py) | `map()`, `reverse()`, `reversed()` |
 | 자릿수 더하기 | [p1-14.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-14.py) | `map()`, `sum()` |
-| 이상한 문자 만들기 | [p1-15.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-14.py) | `split()` , `map()`, `lambda`, `enumerate()`, `upper()`,`join`,  |
+| 이상한 문자 만들기 | [p1-15.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-15.py) | `split()` , `map()`, `lambda`, `enumerate()`, `upper()`,`join`  |
+| 약수의 합 | [p1-16.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-16.py) | `sum()`, `//` |
