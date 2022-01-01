@@ -20,3 +20,4 @@
 | 약수의 합 | [p1-16.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-16.py) | `sum()`, `//` |
 | 시저 암호 | [p1-17.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-17.py) | `import string`, `string.ascii_lowercase`, `index()`, `islower()`, `chr()`, `ord()` |
 | 문자열을 정수로 바꾸기 | [p1-18.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-18.py) | `enumerate()` |
+| 수박수박수박수박수박수? | [p1-19.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-19.py) | `//`, `%`, 문자열 반복 출력 |
