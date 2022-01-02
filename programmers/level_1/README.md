@@ -21,3 +21,7 @@
 | 시저 암호 | [p1-17.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-17.py) | `import string`, `string.ascii_lowercase`, `index()`, `islower()`, `chr()`, `ord()` |
 | 문자열을 정수로 바꾸기 | [p1-18.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-18.py) | `enumerate()` |
 | 수박수박수박수박수박수? | [p1-19.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-19.py) | `//`, `%`, 문자열 반복 출력 |
+| 소수찾기 | [p1-20.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-20.py) | `set`, 에라토스테네스의 체 |
+| 서울에서 김서방 찾기 | [p1-21.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-21.py) | `index()`, `format()`|
+| 문자열 다루기 기본 | [p1-22.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-22.py) | `isdigit()`|
+| 문자열 내림차순으로 배치하기 | [p1-23.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-23.py) | `sorted()`|
