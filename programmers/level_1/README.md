@@ -25,3 +25,9 @@
 | 서울에서 김서방 찾기 | [p1-21.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-21.py) | `index()`, `format()`|
 | 문자열 다루기 기본 | [p1-22.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-22.py) | `isdigit()`|
 | 문자열 내림차순으로 배치하기 | [p1-23.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-23.py) | `sorted()`|
+| 문자열 내 p와 y의 개수 | [p1-24.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-24.py) | `lower()`, `count()`, `from collections import Counter`|
+| 문자열 내 마음대로 정렬하기 | [p1-25.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-25.py) | `sorted()`, `lambda`, 정렬기준 커스텀하기|
+| 두 정수 사이의 합 | [p1-26.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-26.py) | `sum()`, `min()`, `max()`, `abs()`|
+| 나누어 떨어지는 숫자 배열
+ | [p1-27.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-27.py) | return문에 or 사용하기|
+ 

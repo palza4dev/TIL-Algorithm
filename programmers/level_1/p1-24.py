@@ -10,3 +10,23 @@
 문자열 s의 길이 : 50 이하의 자연수
 문자열 s는 알파벳으로만 이루어져 있습니다.
 '''
+
+# 나의 풀이
+def solution(s):
+    return s.lower().count('p') == s.lower().count('y')
+
+# 다른 풀이
+from collections import Counter
+
+def numPY(s):
+    c = Counter(s.lower())
+    return c['y'] == c['p']
+
+''' 해설
+Counter 클래스는 값마다 개수를 키-값으로 저장
+
+s = "pPoooyY"
+print(type(c)) -> <class 'collections.Counter'>
+print(c)       -> Counter({'o': 3, 'p': 2, 'y': 2})
+'''
+
