@@ -28,6 +28,7 @@
 | 문자열 내 p와 y의 개수 | [p1-24.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-24.py) | `lower()`, `count()`, `from collections import Counter`|
 | 문자열 내 마음대로 정렬하기 | [p1-25.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-25.py) | `sorted()`, `lambda`, 정렬기준 커스텀하기|
 | 두 정수 사이의 합 | [p1-26.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-26.py) | `sum()`, `min()`, `max()`, `abs()`|
-| 나누어 떨어지는 숫자 배열
- | [p1-27.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-27.py) | return문에 or 사용하기|
- 
+| 나누어 떨어지는 숫자 배열 | [p1-27.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-27.py) | return문에 or 사용하기|
+| 같은 숫자는 싫어 | [p1-28.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-28.py) | `continue`, 스택을 활용한 풀이|
+| 가운데 글자 가져오기 | [p1-29.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-29.py) | `//`|
+| 나머지가 1이 되는 수 찾기 | [p1-30.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-30.py) | `min`|
