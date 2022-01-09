@@ -22,7 +22,7 @@ class Solution:
                 digits.append(log)
             else:
                 letters.append(log)
-        
-        letters.sort(key = lambda x: (x.split()[1:], x.split()[0])) # 식별자를 제외한 부분을 먼저 비교하고, 동일하면 식별자로 비교.
+        # 식별자를 이후 부분을 먼저 비교하고, 동일하면 식별자로 비교.
+        letters.sort(key = lambda x: (x.split()[1:], x.split()[0]))
         
         return letters + digits  # 리스트를 합치는 연산자
