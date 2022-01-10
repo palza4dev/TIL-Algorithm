@@ -6,3 +6,4 @@
 | 6장. 문자열 조작| [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | [a4.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/algorithm-interview/a4.py) | ★ 
 | 7장. 배열| [두 수의 합](https://leetcode.com/problems/two-sum/) | [a5.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/algorithm-interview/a5.py) | ★ 
 | 7장. 배열| [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | [a6.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/algorithm-interview/a6.py) | ★ 
+| 7장. 배열| [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [a7.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/algorithm-interview/a7.py) | ★ 
