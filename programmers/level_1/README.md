@@ -32,6 +32,7 @@
 | 같은 숫자는 싫어 | [p1-28.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-28.py) | `continue`, 스택을 활용한 풀이|
 | 가운데 글자 가져오기 | [p1-29.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-29.py) | `//`|
 | 나머지가 1이 되는 수 찾기 | [p1-30.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-30.py) | `min()`|
-| 완주하지 못한 선수 | [p1-31.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-31.py) | `Counter`, `hash()`|
-| k번째수 | [p1-32.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-32.py) | `sorted()`, `map()`, `lambda`|
-| 모의고사 | [p1-33.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-33.py) | `enumerate()`, `cycle()`, `max()`|
+| 완주하지 못한 선수 | [p1-31.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-31.py) | 해시, `Counter`, `hash()`|
+| k번째수 | [p1-32.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-32.py) | 정렬, `sorted()`, `map()`, `lambda`|
+| 모의고사 | [p1-33.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-33.py) | 완전탐색, `enumerate()`, `cycle()`, `max()`|
+| 체육복 | [p1-34.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-34.py) | 탐욕법 |
