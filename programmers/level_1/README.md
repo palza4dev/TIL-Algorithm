@@ -36,3 +36,8 @@
 | k번째수 | [p1-32.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-32.py) | 정렬, `sorted()`, `map()`, `lambda`|
 | 모의고사 | [p1-33.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-33.py) | 완전탐색, `enumerate()`, `cycle()`, `max()`|
 | 체육복 | [p1-34.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-34.py) | 탐욕법 |
+| 음양 더하기 | [p1-35.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-35.py) | `zip()` |
+| 두 개 뽑아서 더하기 | [p1-36.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-36.py) | `combinations()` |
+| 내적 | [p1-37.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-37.py) | `zip()` |
+| 2016 | [p1-38.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-38.py) | `sum()` |
+| 부족한 금액 계산하기 | [p1-39.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-39.py) | `max()` |
