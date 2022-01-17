@@ -24,12 +24,12 @@ def solution(n):
 
     return int(n_3,3) # 3진법을 10진법으로 변환
 
-# 다른 풀이 -> 원리는 같다
+# 다른 풀이 -> 원리는 같다.
 def solution(n):
     tmp = ''
     while n:
-        tmp += str(n % 3)
-        n = n // 3
+        tmp += str(n % 3) # 나머지
+        n = n // 3        # 몫
 
     answer = int(tmp, 3)
     return answer
