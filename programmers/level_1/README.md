@@ -44,3 +44,4 @@
 | 없는 숫자 더하기 | [p1-40.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-40.py) | `sum()` |
 | 약수의 개수와 덧셈 | [p1-41.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-41.py) | `**` |
 | 3진법 뒤집기 | [p1-42.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-42.py) | `divmod()`, `int()` |
+| 소수 만들기 | [p1-43.py](https://github.com/palza4dev/TIL-Algorithm/tree/main/programmers/level_1/p1-43.py) | `combinations()` |
