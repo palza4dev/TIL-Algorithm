@@ -16,6 +16,7 @@ nums	    result
 '''
 
 # 나의 풀이
+
 from itertools import combinations
 
 def solution(nums):
@@ -44,4 +45,4 @@ def solution(nums):
                 break
         else:
             answer += 1
-    return answer
+    return answer    
